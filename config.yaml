@@ -1,7 +1,7 @@
 baseURL: https://PersonalWebsite.github.io
 
 languageCode: en-us
-title: "Charlie's Personal Website"
+title: "Charlie's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -14,6 +14,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  es:
+    languageName: Español
+    weight: 2
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn

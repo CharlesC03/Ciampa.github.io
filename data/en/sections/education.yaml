@@ -10,59 +10,44 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B.Sc. in Computer Science & Physics with Minor in Mathematics
-  icon: fa-graduation-cap
-  timeframe: 2021-Present
-  institution:
-    name: Khoury College at Northeastern University
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.15
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
+  - name: B.C. in Computer Science & Physics with Minor in Mathematics
+    icon: fa-university
+    timeframe: 2021-Present
+    institution:
+      name: Khoury College at Northeastern University
+      url: "www.northeastern.edu"
+    grade: #(optional)
+      scale: GPA
+      achieved: 3.15
       outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      collapseAfter: 3
+      courses:
+        - name: Algorithms and Data
+        #      achieved: 3.75
+        #      outOf: 4
+        - name: Object-Oriented Design
+        - name: Modern Physics
+        - name: Differential Equations and Linear Algebra for Engineers
+        - name: Calculus 3
+        - name: Networks and Distributed Systems (Currently Taking)
+        - name: Fundamentals of Software Engineering (Currently Taking)
+    extracurricularActivities: #(optional)
+      - Spikeball Club
+  - name: Higher Secondary School Certificate
+    icon: fa-school
+    timeframe: 2010-2012
+    institution:
+      name: The Newman School
+      url: "#"
+    #  grade: #(optional)
+    #    scale: GPA
+    #    achieved: 5
+    #    outOf: 5
+    extracurricularActivities: #(optional)
+      - In vitae facilisis est, eget porta sem.
+      - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+      - Duis sed massa feugiat, ornare justo et, aliquam est.
+      - Pellentesque ut fringilla magna.

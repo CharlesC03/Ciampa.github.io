@@ -2,7 +2,7 @@
 name: "Charles Ciampa"
 nickname: "Charlie"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hola, soy"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -13,10 +13,9 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a Student
-  - I am a Developer
-  - I am a Physicist
-  - I love learning new systems
-  - I work on open-source projects
-  - I love to work with some fun projects
-  - I love working on personal projects
+  - Soy Estudiante
+  - Soy un desarrollador de software
+  - Soy un físico
+  - Trabajo en los proyectos de código abierto
+  - Me amo a aprender nuevas sistemas y lenguajes
+  - Me amo a trabajar en los proyectos personales

@@ -12,10 +12,10 @@ section:
 experiences:
 - company:
     name: City of Harwich Recreation Department
-    url: "https://www.example.com"
+    url: "https://www.harwich-ma.gov/recreation"
     location: Harwich MA
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: The City of Harwich Recreation Department facilitates programs for the residents of Harwich, MA.
   positions:
   - designation: Lifegaurd
     start: June 2016
@@ -28,29 +28,16 @@ experiences:
     - Lead backend team.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
+    name: Wartime Aide Inc.
+    url: "https://www.wartimeaide.org/"
     location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Wartime Aide Inc. has the goal of making refugee information more accessible. Initially I came on to manage their website and technology, within the following year, as people left the Organization I took over more responsibility.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Vice President, Treasurer, Cheif Technology Officer, Clerk, & Founding Board Member
+    start: July 2016
+#    end: Present
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Responsible for maintaining Wartime Aide's compliance with the IRS and the State of Massachusetts
+    - Managing all the technologies of the Organization and leading the development of the website
+    - Mastering the audio and managing the distribution of the Podcast
+    - Managing all of Wartime Aide's financials

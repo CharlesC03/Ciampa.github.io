@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Habilidades
   id: skills
   enable: true
   weight: 2
@@ -14,33 +14,33 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Performed Data analysis, Machine Learning, and Several Personal Projects. Been programming in python for ~6 years and have been using it for data analysis for 4 years."
+  summary: "Performed Data analysis and ."
   url: "https://www.python.org/"
 
 # https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "Used for programming projects in school and for programming the controllers and autonomics program."
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://www.java.com/"
 
 #https://commons.wikimedia.org/wiki/File:JavaScript-logo.png
 - name: JavaScript
   logo: /images/sections/skills/javascript.png
-  summary: "Created an extension and several projects for School and personal use."
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Webdevelopment
+  logo: /images/sections/skills/docker.svg
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
 
 - name: Rust
   logo: /images/sections/skills/rust.png
-  summary: "Performed small personal projects. While I lack experience in Rust, I have read a lot of the documentation and aspire to learn and work more in Rust."
+  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://www.rust-lang.org/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Have used as primary OS. Now use in conjunction with WLS 2 on my Windows OS. Mostly used the Ubuntu distribution."
-
-- name: Windows
-  logo: /images/sections/skills/windows.png
-  summary: "Have used as primary OS. Now use in conjunction with WLS 2 on my Windows OS."
-  url: "https://www.microsoft.com/en-us/windows"
+  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -50,6 +50,3 @@ skills:
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-- name: Spanish
-  logo: /images/sections/skills/spanish.png
-  summary: "Bilingual."

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Sobre mí
   id: about
   enable: true
   weight: 1
@@ -19,7 +19,7 @@ company:
 # resume: "files/Resume.pdf"
 
 # a summary about you
-summary: 'I am a second year student at Northeastern University Khoury College of Computer Science studing Computer Science and Physics with a minor in Mathematics.'
+summary: 'Yo soy un estudiante en el colegio de Khoury colegio de Informática en la Universidad de Northeastern. '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

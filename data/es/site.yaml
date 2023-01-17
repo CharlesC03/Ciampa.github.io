@@ -11,8 +11,8 @@ description: Portfolio of Charles Ciampa.
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Charlie's Portfolio
+  title: Charlies Portfolio
   type: website
-  description: The Portfolio of Charles Ciampa.
+  description: Portfolio and personal blog of Charles Ciampa.
   image: images/author/john.png
   url: https://hugo-toha.github.io
